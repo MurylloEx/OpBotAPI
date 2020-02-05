@@ -3,7 +3,7 @@ Namespace OpBotAPI
     Public Class OpClntSrv
 
         Private Class resources_t
-            Public Property resourceName As String
+            Public Property resourceName As String 
             Public Property resourceArrayName As String
             Public Property resourceImage As String
             Public Property tooltipTitleId As String
